@@ -15,7 +15,7 @@ const poppins = Poppins({
 export const metadata = {
   title: "প্রতিদিনের রুটিন - Daily Routine Tracker",
   description: "A beautiful app to track your daily routine",
-    generator: 'v0.dev'
+    generator: ''
 }
 
 export default function RootLayout({
